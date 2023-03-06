@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog
-import vlc # install vlc package
+import vlc# install vlc package
 import os
 # os.path: https://stackoverflow.com/questions/3315045/remove-last-path-component-in-a-string
 import os.path
